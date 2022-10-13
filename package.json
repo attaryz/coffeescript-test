@@ -1,0 +1,7 @@
+{
+  "name": "coffiescript-test",
+  "packageManager": "yarn@3.2.1",
+  "devDependencies": {
+    "coffeescript": "^2.7.0"
+  }
+}
